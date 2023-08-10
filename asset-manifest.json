@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vocapp/static/css/main.073c9b0a.css",
+    "main.js": "/vocapp/static/js/main.13013512.js",
+    "static/js/787.74401078.chunk.js": "/vocapp/static/js/787.74401078.chunk.js",
+    "static/media/logo.svg": "/vocapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vocapp/index.html",
+    "main.073c9b0a.css.map": "/vocapp/static/css/main.073c9b0a.css.map",
+    "main.13013512.js.map": "/vocapp/static/js/main.13013512.js.map",
+    "787.74401078.chunk.js.map": "/vocapp/static/js/787.74401078.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.13013512.js"
+  ]
+}
